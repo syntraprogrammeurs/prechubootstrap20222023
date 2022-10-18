@@ -1,0 +1,8 @@
+
+
+.carousel-indicators [data-bs-target] {
+    height: 30px;
+}
+#testcase img{
+    object-fit:cover;
+}
